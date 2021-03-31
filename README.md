@@ -8,3 +8,5 @@ password: March2021
 
 Once entered, you will need to refresh the page to see "Enter details", because there is a bug and the website is not complete
 then you will be directed to the database where our users will need to enter details which will be sent through an api to our robot to perform tasks.
+
+Our video: https://youtu.be/TptwjQ6xZM4
